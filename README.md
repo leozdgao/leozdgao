@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-FrondEnd Engineer.
+Frontend Engineer.
 
 - 🔭 Do some work on multimedia processing with WebAssembly & OpenGL
 - 🦀 Rustaceans
