@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 
 Frontend Engineer.
 
-- 🔭 Do some work on multimedia processing with WebAssembly & OpenGL
-- 🦀 Rustaceans
+- 🔭  Do some work on multimedia processing with WebAssembly & OpenGL
+- 🦀  Rustaceans
