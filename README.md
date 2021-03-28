@@ -19,3 +19,5 @@ Frontend Engineer.
 
 - 🔭  Do some work on multimedia processing with WebAssembly & OpenGL
 - 🦀  Rustaceans
+
+![](https://github-readme-stats.vercel.app/api?username=leozdgao)
