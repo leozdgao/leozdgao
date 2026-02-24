@@ -57,10 +57,6 @@ hobbies:
 
 <div align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=leozdgao&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=leozdgao&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" alt="GitHub Streak" height="180"/>
-</div>
-
-<div align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=leozdgao&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" height="180"/>
 </div>
 ---
