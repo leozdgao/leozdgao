@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **leozdgao/leozdgao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,19 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align="center">
 
-# Hi there! 👋 I'm @leozdgao
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=500&lines=Welcome+to+my+GitHub+Profile!;I+love+building+cool+stuff+%F0%9F%9A%80" alt="Typing SVG" />
-
-<img src="https://komarev.com/ghpvc/?username=leozdgao&style=flat-square&color=58A6FF&label=Profile+Views" alt="Profile Views" />
-
-</div>
-
----
-
-## 🙋‍♂️ About Me
+## Hi there 👋 About Me 🙋‍♂️
 
 ```yaml
 name: @leozdgao
